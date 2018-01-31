@@ -3,8 +3,8 @@ After cloning this repo, turn off your internet connection to do the challenge. 
 
 ## Challenge
 You have to complete the python file main.py:
-- The program takes a json file as program argument;
-- The program create a new json file with the value of the field "genre" changed if it exists;
+- The program takes a json file (data.json) as program argument;
+- The program create a new json file with the value of the field "genre" changed;
 - The program create a csv file with the new value of the field "genre" with each pair field/value on a separated row;
 
 Example of a csv file:
